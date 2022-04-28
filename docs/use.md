@@ -2,7 +2,7 @@
 
 * Clone the project
 ```sh
-git clone https://github.com/MarbelVega/frontend.git
+git clone https://github.com/MUTUAL-DE-SERVICIOS-AL-POLICIA/frontend.git
 cd backend
 ```
 
